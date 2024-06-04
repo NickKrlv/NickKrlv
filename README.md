@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.yapx.cc/VakAF.gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif" width="100"/>
 </div>  
 
 ### <div align="center">Меня зовут Никита и я начинающий backend developer 👨‍💻 </div>  
