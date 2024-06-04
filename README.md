@@ -1,7 +1,6 @@
-<div align="center">
-<img src="https://i.yapx.cc/VakAF.gif" align="center" style="width: 100%" />
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://i.yapx.cc/VakAF.gif)" width="100"/>
 </div>  
-  
 
 ### <div align="center">Меня зовут Никита и я начинающий backend developer 👨‍💻 </div>  
   
