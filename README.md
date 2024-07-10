@@ -4,12 +4,12 @@
 
 ### <div align="center">Меня зовут Никита и я начинающий backend developer 👨‍💻 </div>  
 
-#### <div align="center"> Появление нейросетей сподвигло меня изучать IT. Мой путь начался с бесплатных курсов на Stepik. Потом я прошел курс Python developer от Skypro. Теперь стараюсь изучать DS/ML собственными силами. </div>
+#### <div align="center"> Появление нейросетей сподвигло меня изучать IT. Мой путь начался с бесплатных курсов на Stepik. Потом я прошел курс Python developer от Skypro, где получил навыки использования Django DRF, postgresql, docker, git, linux. Сейчас дополнительно изучаю FastAPI </div>
 
 - 🔭 В настоящий момент я ищу свою первую работу  
   
 
-- 🌱 Параллельно я изучаю DS и ML
+- 🌱 Параллельно я стажируюсь в коммерческои проекте
   
 
 <br/>  
@@ -39,8 +39,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-</div>
+
 
 </td><td valign="top" width="33%">
 
