@@ -2,15 +2,26 @@
   <img src="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif" width="1000"/>
 </div>  
 
-### <div align="center">Меня зовут Никита и я начинающий backend developer 👨‍💻 </div>  
+### <div align="center">Меня зовут Никита, я системный аналитик в команде AAI 👨‍💻 </div>  
 
-#### <div align="center"> Появление нейросетей сподвигло меня изучать IT. Мой путь начался с бесплатных курсов на Stepik. Потом я прошел курс Python developer от Skypro, где получил навыки использования Django DRF, postgresql, docker, git, linux. Сейчас дополнительно изучаю FastAPI </div>
+#### <div align="center"> Появление нейросетей сподвигло меня изучать IT. Мой путь начался с бесплатных курсов на Stepik, затем курс Python developer от Skypro (Django DRF, PostgreSQL, Docker, Git, Linux) — в прошлом я был Python-разработчиком. Сейчас применяю эти знания и системную аналитику на практике — в разработке AI-агентов для автоматизации бизнес-процессов </div>
 
-- 🔭 В настоящий момент я ищу свою первую работу  
-  
+- 🔭 Сейчас я — системный аналитик в команде **AAI**, разрабатываем AI-агентов, которые автоматизируют оформление деловых поездок (авиа, ЖД, отели, трансферы) в чате и на почте  
 
-- 🌱 Параллельно я стажируюсь в коммерческои проекте
-  
+- 🛠️ Также осуществляю техническую поддержку продукта  
+
+- 🌱 Параллельно изучаю FastAPI и подходы к построению LLM-агентов  
+
+<br/>  
+
+## О проекте
+
+Команда **AAI** строит AI-агентов, которые ведут диалог с клиентом в чате и по почте и сами доводят заявку до оформленной услуги — авиабилеты, ЖД, отели, трансферы. Как системный аналитик я:
+
+- 📝 Пишу системную аналитику и постановки задач для агентов, документирую их в Confluence
+- 🔗 Прорабатываю сценарии диалога и логику принятия решений агентами
+- 📊 Провожу аналитику по работе агентов и ищу точки роста для улучшения качества
+- 🧪 Исследую и тестирую подходы к оркестрации и построению LLM-агентов
 
 <br/>  
 
@@ -45,6 +56,17 @@
 
 
 
+### Аналитика / AI-инструменты
+<div align="center">
+<a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jira-original-wordmark.svg" alt="Jira" height="50" /></a>
+<a href="https://www.atlassian.com/software/confluence" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/confluence-original-wordmark.svg" alt="Confluence" height="50" /></a>
+<a href="https://claude.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/claude" alt="Claude" height="50" /></a>
+<a href="https://clickhouse.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/clickhouse" alt="ClickHouse" height="50" /></a>
+<a href="https://graylog.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/graylog" alt="Graylog" height="50" /></a>
+<a href="https://langfuse.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/langfuse" alt="Langfuse" height="50" /></a>
+<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/grafana" alt="Grafana" height="50" /></a>
+</div>
+
 </td></tr></table>  
 
 <br/>  
@@ -68,3 +90,5 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NickKrlv&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+
+---
