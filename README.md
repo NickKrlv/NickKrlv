@@ -10,7 +10,7 @@
 
 - 🛠️ Также осуществляю техническую поддержку продукта  
 
-- 🌱 Параллельно изучаю FastAPI и подходы к построению LLM-агентов  
+- 🌱 Изучаю нейросети и слежу за новостями в мире AI, использую разные модели под разные задачи  
 
 <br/>  
 
@@ -58,12 +58,12 @@
 
 ### Аналитика / AI-инструменты
 <div align="center">
-<a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jira-original-wordmark.svg" alt="Jira" height="50" /></a>
-<a href="https://www.atlassian.com/software/confluence" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/confluence-original-wordmark.svg" alt="Confluence" height="50" /></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/jira" alt="Jira" height="50" /></a>
+<a href="https://www.atlassian.com/software/confluence" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/confluence" alt="Confluence" height="50" /></a>
 <a href="https://claude.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/claude" alt="Claude" height="50" /></a>
 <a href="https://clickhouse.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/clickhouse" alt="ClickHouse" height="50" /></a>
 <a href="https://graylog.org/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/graylog" alt="Graylog" height="50" /></a>
-<a href="https://langfuse.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/langfuse" alt="Langfuse" height="50" /></a>
+<a href="https://langfuse.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Langfuse-000000.svg?style=for-the-badge" alt="Langfuse" height="28" /></a>
 <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/grafana" alt="Grafana" height="50" /></a>
 </div>
 
@@ -87,7 +87,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NickKrlv&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats-lac.vercel.app/api?username=NickKrlv&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
